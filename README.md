@@ -1,7 +1,7 @@
 # Oefening 1: Super Heroes
 
-- [Oefening 1a]()
-- [Oefening 1b]()
-- [Oefening 1c]()
-- [Oefening 1d]()
-- [Oefening 1e]()
+- [Oefening 1a](https://github.com/dmouriss/oe-01-super-heroes/blob/master/opgaves/Oefening-01a.pdf)
+- [Oefening 1b](https://github.com/dmouriss/oe-01-super-heroes/blob/master/opgaves/Oefening-01b.pdf)
+- [Oefening 1c](https://github.com/dmouriss/oe-01-super-heroes/blob/master/opgaves/Oefening-01c.pdf)
+- [Oefening 1d](https://github.com/dmouriss/oe-01-super-heroes/blob/master/opgaves/Oefening-01d.pdf)
+- [Oefening 1e](https://github.com/dmouriss/oe-01-super-heroes/blob/master/opgaves/Oefening-01e.pdf)
